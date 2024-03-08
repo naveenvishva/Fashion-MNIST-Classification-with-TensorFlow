@@ -64,11 +64,6 @@ This project demonstrates how to train and evaluate a neural network model to cl
 - Matplotlib (>=3.0.0)
 - Seaborn (>=0.9.0)
 
-## Author
-
-[Your Name/Username]
-
 ## License
 
-[License Information]
-
+This project is licensed under the MIT License - see the LICENSE file for details.
