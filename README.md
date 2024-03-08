@@ -1,4 +1,3 @@
-# Fashion-MNIST-Classification-with-TensorFlowHere's a SEO-optimized README file for the 
 # Fashion MNIST Classification with TensorFlow
 
 Train a neural network to classify fashion items using the Fashion MNIST dataset with TensorFlow.
